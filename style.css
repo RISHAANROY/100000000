@@ -1,0 +1,37 @@
+body
+{
+color:gray,blue;
+}
+
+.header_div
+ {
+background: rgb(0, 0, 0);
+color: #1100ce;
+ }
+
+ .header_div p {
+    font-family:'Roboto',sans-serif;
+    color:gray;
+    font: size 12pzx;
+    font-weight: bold;
+}
+
+ main.div {
+    margin-top:15px;
+    font-family:'Roboto',sans-serif;
+    color:gray;
+    font: size 12pzx;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size:18px;
+    background-color:#f5f5f5;
+    line-height:3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(151,149,149);
+}
